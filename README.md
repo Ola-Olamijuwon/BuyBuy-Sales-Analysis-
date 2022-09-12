@@ -1,4 +1,4 @@
-# BuyBuy-Sales-Analysis
+# Sales-Analysis
 (SQL &amp; Excel)
 
 ## Case Study
